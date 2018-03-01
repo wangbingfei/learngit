@@ -20,4 +20,6 @@ Git tracks changes of files.
 \f0 \cf4 \cb5 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec4 Creating a 
 \f2\b \cf6 \strokec6 new
-\f0\b0 \cf4 \strokec4  branch is quick & simple.}
+\f0\b0 \cf4 \strokec4  branch is quick 
+\f2\b \cf6 \strokec6 and
+\f0\b0 \cf4 \strokec4  simple.}
